@@ -1,0 +1,21 @@
+{
+  "name": "tpack",
+  "version": "1.0.0",
+  "description": "tpack",
+  "main": "index.js",
+  "bin": {
+    "tpack": "bin/tpack.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "repository": {
+    "type": "git"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "ejs": "^2.6.1"
+  }
+}
